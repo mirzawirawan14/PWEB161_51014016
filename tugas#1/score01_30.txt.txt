@@ -1,0 +1,10 @@
++10 tugas selesai minimal 5 lagu
++10 untuk 5 link ok
++2 untuk gambar background index tidak polos
++5 untuk 5 halaman lagu yang background dengan index
++5 untuk 5 halaman lagu yang bisa back to index html
++1 untuk menuju link wiki
++2 untuk login ke fb
+-5 yang belum upload ke github
+
+total keseluruhan = 30
