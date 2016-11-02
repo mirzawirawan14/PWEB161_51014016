@@ -1,0 +1,48 @@
+body{
+	background-image: url('bg.jpg');
+	font-family: arial;
+	margin: auto;
+}
+
+.samping{
+	width: 300;
+	background-color:  #ffe6f0;
+	color: #fff;
+	text-align: center;
+	margin: auto 20px;
+	float: left;
+	display:inline-block;
+	position: relative;
+}
+
+.judulutama{
+	background-color: #ff0066;
+	text-align: center;
+}
+
+
+.lagu{
+	background-color:  #ff80b3;
+	text-align: center;
+	overflow: scroll;
+	width: 500px;
+	height: 550px;
+	float: right;
+	position: relative;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.lagu h1{
+	border-style: solid;
+	background-color: #000;
+	color:#fff;
+}
+
+.kotak{
+	background-color: #330014;
+	width: 900px;
+	margin: auto;
+	overflow: auto;
+	height: 100%;
+}
