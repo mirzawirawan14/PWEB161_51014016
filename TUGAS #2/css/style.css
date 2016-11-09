@@ -1,0 +1,51 @@
+body
+{
+	background-color: #fac;
+
+}
+
+img 
+{
+	width: 600px;
+	height: 300px;
+}
+
+h1 
+{
+	color: #0f0;
+	font-weight: bold, italicize;
+	font-size: 60px;
+	font-family: algerian,arial;
+	border: 5px solid black;
+	
+}
+
+P
+{
+	color: #AFF;
+	font-size: 50 px;
+	font-weight: underline;
+}	
+
+.judulutama 
+{
+	text-shadow: 3px 2px #f00;
+	color: #0df;
+	font-weight: bold;
+	font-size: 52px;
+	font-family: arial;
+	text-align: center;
+	border: 5px solid black;
+	border-bottom-style: inset;
+	
+}
+
+.Merah 
+{
+	color: #FA0;
+}
+
+.Biru 
+{
+	color: #0012AA;
+}

@@ -1,0 +1,7 @@
+(tugas 2) 20-10-16
++10 untuk tugas siap
+-2 untuk setiao penggunaan opsi tag pengecualian
++5 untuk folder 1 lagu1
+-5 untuk penggunaan tag
+skor = +8
+
